@@ -13,8 +13,6 @@ Projeto de testes de UI na aplicação https://buger-eats-qa.vercel.app do curso
 
 - [Execução dos testes](#testes)
 
-- [Workflow Utilizado](#workflow)
-
 - [Pacotes utilizados](#pacotes-utilizados)
 
   - [Cypress](#cypress)
@@ -25,6 +23,7 @@ Projeto de testes de UI na aplicação https://buger-eats-qa.vercel.app do curso
   - [Eslint plugin](#eslint-plugin)
   - [Husky](#husky)
 
+- [Workflow Utilizado](#workflow)
 ---
 
 ## <a id="requisitos"/> Requisitos: ❗
